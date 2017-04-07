@@ -637,3 +637,7 @@ h6,
 #header3-e H3 {
   text-align: right;
 }
+#header3-h .mbr-section-title,
+#header3-h .mbr-section-subtitle {
+  text-align: center;
+}
