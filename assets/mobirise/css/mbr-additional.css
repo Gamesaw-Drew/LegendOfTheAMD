@@ -564,6 +564,10 @@ h6,
 
 
 
+#header3-h .mbr-section-title,
+#header3-h .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -629,15 +633,4 @@ h6,
 }
 #ext_menu-5 .btn {
   font-family: 'Roboto', sans-serif;
-}
-#header3-e .mbr-section-title,
-#header3-e .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-e H3 {
-  text-align: right;
-}
-#header3-h .mbr-section-title,
-#header3-h .mbr-section-subtitle {
-  text-align: center;
 }
