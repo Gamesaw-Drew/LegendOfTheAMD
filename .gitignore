@@ -49,3 +49,4 @@ project.mobirise
 DOWNLOAD/LATEST/WIN/makemanifest.py
 
 !LOTA.exe
+!*.dll
