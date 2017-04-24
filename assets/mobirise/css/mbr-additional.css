@@ -575,6 +575,10 @@ h6,
 
 
 
+#header3-n .mbr-section-title,
+#header3-n .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
