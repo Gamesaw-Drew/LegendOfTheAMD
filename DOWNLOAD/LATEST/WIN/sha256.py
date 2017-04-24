@@ -1,9 +1,11 @@
 import hashlib
-phases = [1, 2, 3, 4, 5]
-
+import os
 jsonString = '{\n"data": ['
-for phase in phases:
-    jsonString = jsonString + '{"Filename": "phase_%d", "sha256" : "%s"},\n' %(phase, hashlib.sha256(open("phase_%d.zip" %phase, 'rb').read()).hexdigest())
+rootDir = 'D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata'
+for dirName, subdirList, fileList in os.walk(rootDir):
+    print('Found directory: %s' % dirName)
+    for fname in fileList:
+        jsonString = jsonString + '{"Filename": "%s", "sha256" : "%s"},\n' %(("%s\\%s" %(dirName.replace("D:\\Users\\Drew\\Documents\\LegendofAMDSite\\DOWNLOAD\\LATEST\\WIN\\", ""), fname)), hashlib.sha256(open("%s" %"%s\\%s" %(dirName, fname), 'rb').read()).hexdigest())
     
 jsonString = jsonString[:-2] + '\n]}'
 print(jsonString)
