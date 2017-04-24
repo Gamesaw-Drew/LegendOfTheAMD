@@ -3,7 +3,7 @@ phases = [1, 2, 3, 4, 5]
 
 jsonString = '{\n'
 for phase in phases:
-    jsonString = jsonString + '"phase_%d": ' %phase + '"' + (hashlib.sha256(open("phase_%d.zip" %phase, 'rb').read()).hexdigest()) + '",\n'
+    jsonString = jsonString + '"phase_%d": ' %phase + '["Filename": "phase_%d", "sha256" : "%s"],\n' %(phase, hashlib.sha256(open("phase_%d.zip" %phase, 'rb').read()).hexdigest())
     
 jsonString = jsonString[:-2] + '\n}'
 print(jsonString)
