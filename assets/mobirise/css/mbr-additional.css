@@ -488,12 +488,8 @@ h6,
   color: #313131;
   font-family: 'Roboto', sans-serif;
 }
-#header3-l .mbr-section-title,
-#header3-l .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-8 .mbr-section-title,
-#header3-8 .mbr-section-subtitle {
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
   text-align: center;
 }
 #header3-k .mbr-section-title,
