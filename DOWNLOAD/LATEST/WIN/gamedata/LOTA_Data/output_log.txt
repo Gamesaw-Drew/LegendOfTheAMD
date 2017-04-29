@@ -7,141 +7,34 @@ Direct3D:
     VRAM:     4059 MB
     Driver:   21.21.13.7892
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\M3D_DLL.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\M3D_DLL.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\MCS_Utilities.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\MCS_Utilities.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\TextMeshPro.dll (this message is harmless)
-Loading D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\TextMeshPro.dll into Unity Child Domain
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\System.dll (this message is harmless)
-Platform assembly: D:\Users\Drew\Documents\LegendofAMDSite\DOWNLOAD\LATEST\WIN\gamedata\LOTA_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.020 seconds
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\M3D_DLL.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\M3D_DLL.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\MCS_Utilities.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\MCS_Utilities.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\TextMeshPro.dll (this message is harmless)
+Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\TextMeshPro.dll into Unity Child Domain
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.023 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1497)
-
-The referenced script on this Behaviour (Game Object 'Scrollbar') is missing!
- 
-(Filename:  Line: 1738)
-
-A script behaviour (probably UnityEngine.Audio.AudioSpatializerMicrosoft?) has a different serialization layout when loading. (Read 32 bytes but expected 36 bytes)
-Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
- 
-(Filename:  Line: 1891)
-
-UnloadTime: 0.772677 ms
-NullReferenceException: Object reference not set to an instance of an object
-  at UISlider.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at UISlider.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-CheckResources () for Main Camera (UnityStandardAssets.ImageEffects.PostEffectsBase) should be overwritten.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at UISlider.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1497)
-
-The referenced script on this Behaviour (Game Object 'Scrollbar') is missing!
- 
-(Filename:  Line: 1738)
-
-A script behaviour (probably UnityEngine.Audio.AudioSpatializerMicrosoft?) has a different serialization layout when loading. (Read 32 bytes but expected 36 bytes)
-Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
- 
-(Filename:  Line: 1891)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.907865 ms
-NullReferenceException: Object reference not set to an instance of an object
-  at UISlider.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at UISlider.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at UISlider.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-CheckResources () for Main Camera (UnityStandardAssets.ImageEffects.PostEffectsBase) should be overwritten.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2960 -> priority: 1 
-  Thread -> id: cc -> priority: 1 
-
-Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 5602.
-Total: 3.367190 ms (FindLiveObjects: 0.259802 ms CreateObjectMapping: 0.115272 ms MarkObjects: 1.931841 ms  DeleteObjects: 1.059981 ms)
-
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-GfxDevice: creating device client; threaded=1
-"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
- 
-(Filename:  Line: 210)
-
