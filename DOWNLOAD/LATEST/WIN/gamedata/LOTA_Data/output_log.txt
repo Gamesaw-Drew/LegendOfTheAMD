@@ -35,6 +35,6 @@ Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WIND
 Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\TextMeshPro.dll into Unity Child Domain
 Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.024 seconds
+- Completed reload, in  0.365 seconds
 <RI> Initializing input.
 <RI> Input initialized.
