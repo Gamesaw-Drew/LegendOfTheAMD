@@ -5,7 +5,7 @@ Direct3D:
     Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
     Vendor:   NVIDIA
     VRAM:     4059 MB
-    Driver:   21.21.13.7892
+    Driver:   22.21.13.8205
 Begin MonoManager ReloadAssembly
 Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\UnityEngine.dll into Unity Child Domain
@@ -35,6 +35,6 @@ Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WIND
 Loading D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\TextMeshPro.dll into Unity Child Domain
 Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\Users\Drew\Documents\LegendoftheAmd1UNITYRemake\BUILD\WINDOWS\a1.4\LOTA_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.483 seconds
+- Completed reload, in  0.463 seconds
 <RI> Initializing input.
 <RI> Input initialized.
