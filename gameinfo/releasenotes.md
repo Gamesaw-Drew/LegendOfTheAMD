@@ -1,3 +1,4 @@
+<!--1.0.0-->
         <div class="row">
                 <h1>TLODB Alpha 1.0.0<h1>
             <blockquote>
@@ -9,6 +10,8 @@
                 <strong>Tweaks</strong>
                 <li>Updated Chris's House</li>
                 <li>Updated AMD Store</li>
+                <li>Moved Minimap</li>
+                <li>Minimap toggles by clicking on the map its self as opposed to a seperate button</li>
                 <strong>Notable Issues</strong>
                 <li>AMD Store Interior has a couple floating lights</li>
                 <li>The underneath side of the ceilings in Chris's House don't properlly collide</li>
