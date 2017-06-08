@@ -1,3 +1,21 @@
+<!--1.1.0-->
+        <div class="row">
+                <h1>TLODB Alpha 1.0.1<h1>
+            <blockquote>
+                <strong>Features</strong>
+                <li>Recreated all of the games backends</li>
+                <li>Recreated the world</li>
+                <li>Ported Chris model from LOTA</li>
+                <li>Added Multiplayer naming system</li>
+                <li>Added phone (press V to toggle)</li>
+                <li>Added player list (hold tab)</li>
+                <li>New first mission</li>
+                <li>Faster zone management systems</li>
+                <li>Added multiplayer chat</li>
+                <li>Added a placeholder new options screen (Options don't work, but it shows how they will be)</li>
+            </blockquote>
+        </div>
+<!--RELEASE BREAK--><br><br>
 <!--1.0.1-->
         <div class="row">
                 <h1>TLODB Alpha 1.0.1<h1>
